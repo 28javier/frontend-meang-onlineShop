@@ -1,0 +1,14 @@
+@import '../../../pages/admin/admin.component.scss';
+#sidebarToggle {
+    color: #181F2C;
+    background: transparent;
+    border-color: transparent;
+    font-size: larger;
+}
+
+.shadow {
+    /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important; */
+    -webkit-box-shadow: 3px 9px 22px 3px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 3px 9px 22px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: 3px 9px 22px 3px rgb(0 0 0 / 25%);
+}

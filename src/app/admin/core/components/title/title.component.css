@@ -1,0 +1,6 @@
+@import '../../../pages/admin/admin.component.scss';
+h1 {
+    /* margin-bottom: .5rem; */
+    color: #181F2C;
+    font-size: larger !important;
+}

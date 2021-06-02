@@ -1,0 +1,9 @@
+@import '../../../pages/admin/admin.component.scss';
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+#sidebar-wrapper {
+    background-color: #181F2C;
+}
